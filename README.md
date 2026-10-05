@@ -19,7 +19,7 @@
 ### 📝 Currently
 
 - 📄 Writing a paper on persona conditioning with public survey data
-- 🧪 Comparing LLM vs. human response distributions (JSD, entropy)
+- 🧪 Comparing LLM vs. human response 
 
 ---
 
