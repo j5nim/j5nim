@@ -47,6 +47,5 @@
 ---
 
 ### 📫 Contact
-
-<!-- 공개해도 괜찮은 연락처만 남기세요 -->
-- Email: your-email@example.com
+- Email: hyeeon02@kangwon.ac.kr
+- Linkedin: https://www.linkedin.com/in/jeonghyeon-lee-283527398/
