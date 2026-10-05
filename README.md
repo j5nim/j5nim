@@ -2,7 +2,7 @@
 
 # Hi, I'm Jeonghyeon Lee 👋
 
-**Graduate Student · NLP / Machine Learning**
+**Undergraduate Student · NLP / Machine Learning**
 
 <!-- 소속 연구실·학교 이름을 원하면 여기에 적으세요 -->
 
